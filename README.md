@@ -1,2 +1,2 @@
-# Nate-s-rep.
+# About me 
 This is my personal repository.
